@@ -2,8 +2,14 @@
 
 Petite application de gestions des taches réalisée avec Angular par Samson N.
 
-### install angular
+###  - installer angular
 ``npm i -g @angular/cli``
 
-### lancer le serveur (http://127.0.0.1:4200)
+###  - lancer le serveur (http://127.0.0.1:4200)
 ``ng serve``
+
+###  - réalisation des tests
+``ng test``
+
+###  - mise en production
+``ng build``
