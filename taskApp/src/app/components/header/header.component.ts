@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class HeaderComponent implements OnInit {
 
-  title: string = 'TaskApp Tracker';
+  title: string = 'Task Tracker App';
 
   constructor() { }
 
